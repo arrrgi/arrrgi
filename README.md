@@ -1,4 +1,14 @@
-### Hi there 👋
+<p align="center">
+  <img src="assets/the-bald-engineer.png">
+</p>
+
+<div align"center">
+
+[![](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
+[![](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+[![](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)
+
+</div>
 
 <!--
 **arrrgi/arrrgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
