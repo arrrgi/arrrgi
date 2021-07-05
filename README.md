@@ -2,11 +2,9 @@
   <img src="assets/the-bald-engineer.png">
 </p>
 
-<div align"center">
+<div align="center">
 
-[![](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
-[![](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
-[![](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)
+[![](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com) [![](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com) [![](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)
 
 </div>
 
