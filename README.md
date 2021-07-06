@@ -12,7 +12,7 @@
 
 **Hi, I'm Rowan!** 👋
 
-I'm currently the Lead Architect for Data Protection @ Interactive and based in Brisbane, Australia 🇦🇺&puncsp;. My role currently oversees the design, implementation and productisation of new capabilities for our private cloud customers.
+I'm currently the Lead Architect for Data Protection @ [Interactive](https://www.interactive.com.au) and based in Brisbane, Australia 🇦🇺&puncsp;. My role currently oversees the design, implementation and productisation of new capabilities for our private cloud customers.
 
 Previously I've consulted at many large businesses, education providers and government agencies to optimise, design and deploy top-tier data management solutions built on [Commvault](https://www.commvault.com/)'s Intelligent Data Services.
 
