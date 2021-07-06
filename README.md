@@ -18,12 +18,11 @@ Previously I've consulted at many large businesses, education providers and gove
 
 I'm passionate about understanding how DevOps and Infrastructure-as-Code fit into a modern and progressive business and keep myself busy in my downtime, continuing to learn about:
 
-- 🗃&ensp;Git version control and Semantic versioning
-- 🚂&ensp;Continuous Integration/Development
+- 🗃&ensp;Git and Semantic versioning
+- 🚂&ensp;Continuous Integration/Development in Web Development
 - 🛳&ensp;Docker and Kubernetes in a micro-service context
-- 🕸&ensp;Service Mesh's
-- 🛠&ensp;Ansible
-
+- 🕸&ensp;Service Mesh's in traditional infrastructure
+- 🛠&ensp;Ansible as a robust provisioning toolset
 
 
 <!--
