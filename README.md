@@ -10,7 +10,7 @@
 
 </div>
 
-**Hi, I'm Rowan!** 👋
+### Hi, I'm Rowan! 👋
 
 I'm currently the Lead Architect for Data Protection @ [Interactive](https://www.interactive.com.au) and based in Brisbane, Australia 🇦🇺&puncsp;. My role currently oversees the design, implementation and productisation of new capabilities for our private cloud customers.
 
@@ -23,6 +23,22 @@ I'm passionate about understanding how DevOps and Infrastructure-as-Code fit int
 - 🛳&ensp;Docker and Kubernetes in a micro-service context
 - 🕸&ensp;Service Mesh's in traditional infrastructure
 - 🛠&ensp;Ansible as a robust provisioning toolset
+
+#### 🤝🏻&ensp;You can find me here:
+
+* Telegram: [@r0b0tn11k](https://t.me/r0b0tn11k "My Telegram")
+* Email: devops@rowangillson.info
+
+### 📈&ensp;GitHub Stats
+
+<p align="center">
+  <table>
+  <tr>
+      <td><img width="550px" align="left" src="http://github-readme-stats-arrrgi.vercel.app/api?username=arrrgi&show_icons=true&theme=synthwave&count_private=true&hide_border=true&hide_title=true&bg_color=0d1117" /></td>
+      <td><img width="550px" src="https://github-readme-stats-arrrgi.vercel.app/api/top-langs/?username=arrrgi&layout=compact&hide_border=true&theme=synthwave&hide_title=true&bg_color=0d1117" /></td>
+  </tr>   
+</table>
+</p>
 
 
 <!--
