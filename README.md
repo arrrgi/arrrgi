@@ -32,9 +32,11 @@ I'm passionate about understanding how DevOps and Infrastructure-as-Code fit int
 #### 📈&ensp;GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="http://github-readme-stats-arrrgi.vercel.app/api?username=arrrgi&show_icons=true&theme=synthwave&count_private=true&hide_border=true&hide_title=true&bg_color=fafbfc" />
+  <img align="center" src="https://github-readme-stats-arrrgi.vercel.app/api?username=arrrgi&show_icons=true&theme=synthwave&count_private=true&hide_border=true&hide_title=true&bg_color=fafbfc" />
+<!--
+  <img align="center" src="https://github-readme-stats-arrrgi.vercel.app/api/top-langs/?username=arrrgi&layout=compact&theme=bear&count_private=true&include_all_commits=true&hide_border=true&langs_count=5&bg_color=fafbfc" />
+-->
 </a>
-
 
 <!--
 **arrrgi/arrrgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
