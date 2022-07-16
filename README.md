@@ -27,7 +27,7 @@ I'm passionate about understanding how DevOps and Infrastructure-as-Code fit int
 #### 🤝🏻&ensp;You can find me here:
 
 * Telegram: [@r0b0tn11k](https://t.me/r0b0tn11k "My Telegram")
-* Email: devops@rowangillson.info
+* LinkedIn: [rowangillson](https://www.linkedin.com/in/rowangillson/ "My LinkedIn Profile")
 
 #### 📈&ensp;GitHub Stats
 
