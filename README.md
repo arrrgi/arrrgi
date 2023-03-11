@@ -12,7 +12,7 @@
 
 ### Hi, I'm Rowan! 👋
 
-I'm currently the Delivery Team Lead for Public Cloud capabilities @ [Interactive](https://www.interactive.com.au) and based in Brisbane, Australia 🇦🇺&puncsp;. My role currently oversees the design and implementation of new and existing capabilities for our managed public cloud service customers.
+I'm currently the Platform Development Lead for automation capabilities @ [Interactive](https://www.interactive.com.au) and based in Brisbane, Australia 🇦🇺&puncsp;. My role currently oversees a DevOps engineering practice that designs, develops and deploys middleware to make technology more human for our people and our customers.   
 
 Previously I've consulted at many large businesses, education providers and government agencies to optimise, design and deploy top-tier data management solutions built on [Commvault](https://www.commvault.com/)'s Intelligent Data Services.
 
