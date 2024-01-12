@@ -139,10 +139,30 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_calendar: yes
-          plugin_calendar_limit: 1
+          plugin_calendar_limit: 2
           config_timezone: Australia/Brisbane
           committer_message: "chore: update calendar metrics"
-          output_action: pull-request-squash
+          output_action: pull-request
+          users_ignored:
+            github-actions[bot], renovate[bot], dependabot[bot],
+            dependabot-preview[bot], actions-user, action@github.com
+
+  isocalendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          config_timezone: Australia/Brisbane
+          committer_message: "chore: update isocalendar metrics"
+          output_action: pull-request-rebase
           users_ignored:
             github-actions[bot], renovate[bot], dependabot[bot],
             dependabot-preview[bot], actions-user, action@github.com
