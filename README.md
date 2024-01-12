@@ -43,32 +43,32 @@ continuing to learn about:
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; text-align: center;">
 
-  <div style="width: 40%; margin-bottom: 10px;">
+  <div style="width: 100%; margin-bottom: 10px;">
     <img src="./assets/header.svg" alt="Image 1" width="40%">
   </div>
 
-  <div style="width: 33%; margin: 10px;">
-    <img src="./assets/repositories.svg" alt="Image 2" width="40%">
+  <div style="width: 45%; margin: 10px;">
+    <img src="./assets/repositories.svg" alt="Image 2" width="100%">
   </div>
 
-  <div style="width: 33%; margin: 10px;">
-    <img src="./assets/activity.svg" alt="Image 3" width="40%">
+  <div style="width: 45%; margin: 10px;">
+    <img src="./assets/activity.svg" alt="Image 3" width="100%">
   </div>
 
-  <div style="width: 33%; margin: 10px;">
-    <img src="./assets/isocalendar.svg" alt="Image 4" width="40%">
+  <div style="width: 45%; margin: 10px;">
+    <img src="./assets/isocalendar.svg" alt="Image 4" width="100%">
   </div>
 
-  <div style="width: 33%; margin: 10px;">
-    <img src="./assets/wakatime.svg" alt="Image 5" width="40%">
+  <div style="width: 45%; margin: 10px;">
+    <img src="./assets/wakatime.svg" alt="Image 5" width="100%">
   </div>
 
-  <div style="width: 33%; margin: 10px;">
-    <img src="./assets/habits.svg" alt="Image 6" width="40%">
+  <div style="width: 45%; margin: 10px;">
+    <img src="./assets/habits.svg" alt="Image 6" width="100%">
   </div>
 
-  <div style="width: 33%; margin: 10px;">
-    <img src="./assets/achievements.svg" alt="Image 7" width="40%">
+  <div style="width: 45%; margin: 10px;">
+    <img src="./assets/achievements.svg" alt="Image 7" width="100%">
   </div>
 
 </div>
