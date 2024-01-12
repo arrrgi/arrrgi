@@ -79,6 +79,9 @@ jobs:
           plugin_habits: yes
           plugin_habits_trim: yes
           plugin_habits_charts: yes
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
           config_timezone: Australia/Brisbane
           committer_message: "chore: update habit metrics"
           output_action: pull-request
@@ -165,3 +168,4 @@ jobs:
           users_ignored:
             github-actions[bot], renovate[bot], dependabot[bot],
             dependabot-preview[bot], actions-user, action@github.com
+          clean_workflows: all

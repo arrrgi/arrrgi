@@ -41,10 +41,37 @@ continuing to learn about:
 
 #### 📈&ensp;GitHub Stats
 
-<p align="center"><img src="./assets/header.svg" alt="Metrics" width="49%"></p>
-<br/>
-<p align="center"><img src="./assets/repositories.svg" alt="Metrics" width="49%"></p>
-<p align="center"><img src="./assets/activity.svg" alt="Metrics" width="49%"></p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; text-align: center;">
+
+  <div style="width: 100%; margin-bottom: 10px;">
+    <img src="./assets/header.svg" alt="Image 1" width="40%">
+  </div>
+
+  <div style="width: 33%; margin: 10px;">
+    <img src="./assets/repositories.svg" alt="Image 2" width="100%">
+  </div>
+
+  <div style="width: 33%; margin: 10px;">
+    <img src="./assets/activity.svg" alt="Image 3" width="100%">
+  </div>
+
+  <div style="width: 33%; margin: 10px;">
+    <img src="./assets/isocalendar.svg" alt="Image 4" width="100%">
+  </div>
+
+  <div style="width: 33%; margin: 10px;">
+    <img src="./assets/wakatime.svg" alt="Image 5" width="100%">
+  </div>
+
+  <div style="width: 33%; margin: 10px;">
+    <img src="./assets/habits.svg" alt="Image 6" width="100%">
+  </div>
+
+  <div style="width: 33%; margin: 10px;">
+    <img src="./assets/achievements.svg" alt="Image 7" width="100%">
+  </div>
+
+</div>
 
 <!--
   <a href="https://github.com/anuraghazra/github-readme-stats">
