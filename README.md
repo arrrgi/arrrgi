@@ -12,11 +12,20 @@
 
 ### Hi, I'm Rowan! 👋
 
-I'm currently the Platform Development Lead for automation capabilities @ [Interactive](https://www.interactive.com.au) and based in Brisbane, Australia 🇦🇺&puncsp;. My role currently oversees a DevOps engineering practice that designs, develops and deploys middleware to make technology more human for our people and our customers.   
+I'm currently the Platform Development Lead for automation capabilities @
+[Interactive](https://www.interactive.com.au) and based in Brisbane, Australia
+🇦🇺&puncsp;. My role currently oversees a DevOps engineering practice that
+designs, develops and deploys middleware to make technology more human for our
+people and our customers.
 
-Previously I've consulted at many large businesses, education providers and government agencies to optimise, design and deploy top-tier data management solutions built on [Commvault](https://www.commvault.com/)'s Intelligent Data Services.
+Previously I've consulted at many large businesses, education providers and
+government agencies to optimise, design and deploy top-tier data management
+solutions built on [Commvault](https://www.commvault.com/)'s Intelligent Data
+Services.
 
-I'm passionate about understanding how DevOps and Infrastructure-as-Code fit into a modern and progressive business and keep myself busy in my downtime, continuing to learn about:
+I'm passionate about understanding how DevOps and Infrastructure-as-Code fit
+into a modern and progressive business and keep myself busy in my downtime,
+continuing to learn about:
 
 - 🗃&ensp;Git and Semantic versioning
 - 🚂&ensp;Continuous Integration/Development in Web Development
@@ -26,15 +35,20 @@ I'm passionate about understanding how DevOps and Infrastructure-as-Code fit int
 
 #### 🤝🏻&ensp;You can find me here:
 
-* Telegram: [@r0b0tn11k](https://t.me/r0b0tn11k "My Telegram")
-* LinkedIn: [rowangillson](https://www.linkedin.com/in/rowangillson/ "My LinkedIn Profile")
+- Telegram: [@r0b0tn11k](https://t.me/r0b0tn11k "My Telegram")
+- LinkedIn:
+  [rowangillson](https://www.linkedin.com/in/rowangillson/ "My LinkedIn Profile")
 
 #### 📈&ensp;GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-arrrgi.vercel.app/api?username=arrrgi&show_icons=true&theme=synthwave&count_private=true&hide_border=true&hide_title=true&bg_color=fafbfc" />
+<p align="center"><img src="./assets/header.svg" alt="Metrics" width="49%"></p>
+<br/>
+<p align="center"><img src="./assets/repositories.svg" alt="Metrics" width="49%"></p>
+<p align="center"><img src="./assets/activity.svg" alt="Metrics" width="49%"></p>
+
 <!--
-  <img align="center" src="https://github-readme-stats-arrrgi.vercel.app/api/top-langs/?username=arrrgi&layout=compact&theme=bear&count_private=true&include_all_commits=true&hide_border=true&langs_count=5&bg_color=fafbfc" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-arrrgi.vercel.app/api?username=arrrgi&show_icons=true&theme=synthwave&count_private=true&hide_border=true&hide_title=true&bg_color=fafbfc" />
 -->
 </a>
 
