@@ -1,0 +1,23 @@
+name: Metrics
+on:
+  # Schedule daily refresh
+  schedule: [{ cron: "0 0 * * *" }]
+  # Or run manually
+  workflow_dispatch:
+  push: { branches: ["main"] }
+
+jobs:
+  header:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/header.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: arrrgi
+          template: classic
+          base: header
+          config_timezone: Australia/Brisbane
