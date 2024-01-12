@@ -41,43 +41,18 @@ continuing to learn about:
 
 #### 📈&ensp;GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; text-align: center;">
-
-  <div style="width: 100%; margin-bottom: 10px;">
-    <img src="./assets/header.svg" alt="Image 1" width="40%">
-  </div>
-
-  <div style="width: 45%; margin: 10px;">
-    <img src="./assets/repositories.svg" alt="Image 2" width="100%">
-  </div>
-
-  <div style="width: 45%; margin: 10px;">
-    <img src="./assets/activity.svg" alt="Image 3" width="100%">
-  </div>
-
-  <div style="width: 45%; margin: 10px;">
-    <img src="./assets/isocalendar.svg" alt="Image 4" width="100%">
-  </div>
-
-  <div style="width: 45%; margin: 10px;">
-    <img src="./assets/wakatime.svg" alt="Image 5" width="100%">
-  </div>
-
-  <div style="width: 45%; margin: 10px;">
-    <img src="./assets/habits.svg" alt="Image 6" width="100%">
-  </div>
-
-  <div style="width: 45%; margin: 10px;">
-    <img src="./assets/achievements.svg" alt="Image 7" width="100%">
-  </div>
-
-</div>
-
-<!--
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-arrrgi.vercel.app/api?username=arrrgi&show_icons=true&theme=synthwave&count_private=true&hide_border=true&hide_title=true&bg_color=fafbfc" />
--->
-</a>
+<p align="center">
+  <a href="https://github.com/arrrgi"><img src="./assets/header.svg" alt="GitHub profile" width="49%" align="center"></a>
+</p>
+<p align="left">
+  <a href="https://github.com/arrrgi"><img src="./assets/repositories.svg" alt="Repository info" width="49%"></a>
+  <a href="https://github.com/arrrgi"><img src="./assets/activity.svg" alt="GitHub activity" width="49%"></a>
+  <a href="https://github.com/arrrgi"><img src="./assets/isocalendar.svg" alt="Contribution calendar" width="49%"></a>
+  <a href="https://github.com/arrrgi"><img src="./assets/wakatime.svg" alt="Wakatime stats" width="49%"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/arrrgi"><img src="./assets/habits.svg" alt="Coding habits" width="49%"></a>
+</p>
 
 <!--
 **arrrgi/arrrgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
