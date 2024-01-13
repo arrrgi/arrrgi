@@ -31,6 +31,7 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
+    needs: header
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -50,6 +51,7 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
+    needs: repositories
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -69,6 +71,7 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
+    needs: activity
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -94,6 +97,7 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
+    needs: habits
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -112,6 +116,7 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
+    needs: wakatime
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -134,6 +139,7 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
+    needs: achievements
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -154,6 +160,7 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
+    needs: calendar
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -164,7 +171,7 @@ jobs:
           plugin_isocalendar_duration: half-year
           config_timezone: Australia/Brisbane
           committer_message: "chore: update isocalendar metrics"
-          output_action: pull-request-rebase
+          output_action: pull-request-squash
           users_ignored:
             github-actions[bot], renovate[bot], dependabot[bot],
             dependabot-preview[bot], actions-user, action@github.com
