@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily refresh
-  schedule: [{ cron: "0 0 * * *" }]
+  schedule: [{ cron: "0 0 * * 6" }]
   # Or run manually
   workflow_dispatch:
   push: { branches: ["main"] }
